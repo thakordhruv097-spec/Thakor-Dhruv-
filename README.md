@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-🎓 B.Sc. IT Student at Gokul Global University
+🎓 B.Sc. IT
 
 💻 Passionate about Web Development and Artificial Intelligence
 
